@@ -54,6 +54,4 @@ node["amenity"~"pub|restaurant|biergarten|cafe|food_court|fast_food|ice_cream"](
 out;
 ```
 
-All the keys, values, and more are available in the [wiki](https://wiki.openstreetmap.org/wiki/Map_features), and there are also nifty [cheat sheets](https://osm-queries.ldodds.com/syntax-reference.html).
-
-
+All the keys, values, and more are available in the [wiki](https://wiki.openstreetmap.org/wiki/Map_features), and there are also nifty [cheat sheets](https://osm-queries.ldodds.com/syntax-reference.html). One can also find many complex examples on the Overpass API [wiki page](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Misc_features).
