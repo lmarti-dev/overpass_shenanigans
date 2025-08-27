@@ -38,7 +38,7 @@ way(area)
 );
 out;
 ```
-It is also to discriminate between homonyms, by may rather identify the city through its wiki article:
+It is also to discriminate between homonyms, one may rather identify the city through its wiki article:
 ```js
 area[name="Paris"]["wikipedia"="en:Paris"];
 ```
