@@ -1,5 +1,7 @@
 # Using OverpassQL 
 
+First, go to the [website](https://overpass-turbo.eu/).
+
 ## All streets in town
 
 To get all the streets in a given town it's pretty straightforward
